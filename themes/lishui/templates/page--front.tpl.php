@@ -80,7 +80,7 @@
                 <?php if ($logo): ?>
                     <a class="logo navbar-btn" href="<?php print $front_page; ?>"
                        title="<?php print t('Home'); ?>">
-                        <img src="/sites/all/themes/lishui/assets/images/logo.png" alt="<?php print t('Home'); ?>"/>
+                        <img src="/sites/lshqphoto.org/themes/lishui/assets/images/logo.png" alt="<?php print t('Home'); ?>"/>
                     </a>
                 <?php endif; ?>
             </div>
